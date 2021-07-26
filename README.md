@@ -24,7 +24,7 @@ https://paidcodes.albdroid.al/Mediafire/api/playlist
     RAW
     MP4
     SMART
-    KODI DIRECT
+    KODI_DIRECT
     KODI_REGEX
     PLAY
     JSON
