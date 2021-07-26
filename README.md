@@ -43,7 +43,7 @@ https://paidcodes.albdroid.al/Mediafire/api/playlist
     
     [AL]
     KETO APIS JANE VETEM PER DEMOSTRIM, MOS E TEPRONI JU QE MERENI ME STREAMING!!!
-    NESE JENI TE INTERESUAR TE BLEJNI MUND TE KONTAKTONI NE TRC4@USA.COM
+    NESE JENI TE INTERESUAR TA BLENI MUND TE KONTAKTONI NE TRC4@USA.COM
 
 # Screenshots
 ![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/CLAPPR_PLAYER.png?raw=true?raw=true)
