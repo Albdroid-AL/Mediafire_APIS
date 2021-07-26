@@ -35,3 +35,23 @@ https://paidcodes.albdroid.al/Mediafire/api/playlist
     DOWNLOAD
     CLAPPR_PLAYER
     JW_PLAYER
+
+
+# Screenshots
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/CLAPPR_PLAYER.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/JW_PLAYER.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/JSON_HELPER.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/MAIN_DEFAULT_API.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/MAIN_PLAYER_PLAYING1.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/MAIN_PLAYER_PLAYING2.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/MAIN_PLAYER_TEST.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/SMART_TV.png?raw=true?raw=true)
+
+![Logo](https://github.com/SxtBox/Mediafire_APIS/blob/main/Screenshots/VLC_PLAYER.png?raw=true?raw=true)
