@@ -8,7 +8,7 @@ https://paidcodes.albdroid.al/Mediafire/New_Deep
 # JSON API
 
 https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/json
-OR
+    OR
 https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/?help
 
 # EXAMPLE Smart TV Playlist
