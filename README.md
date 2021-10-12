@@ -34,6 +34,9 @@ https://paidcodes.albdroid.al/Mediafire/api/?help
 
 https://paidcodes.albdroid.al/Mediafire/api/playlist
 
+# OLD API issues
+    the old api has a problem with some links redirects to a fake table that says regenerate new api key.
+
 # Support Formats
     M3U
     M3U PLAYLIST
