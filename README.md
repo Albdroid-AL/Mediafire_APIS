@@ -2,7 +2,7 @@
 Mediafire Streaming API SDK Multi Functions
 
 # New API INFO
-    Added New Structure for easy get & added more Web Players
+    Added New Structure for easy get & added more Web Players, Removed get by url structure, now is get by video id.
 
 # New Hosted API
 
