@@ -1,34 +1,36 @@
 # Mediafire APIS
 Mediafire Streaming API SDK Multi Functions
 
+# New API INFO
+    Added New Structure for easy get & added more Web Players
+
 # New Hosted API
 
 https://paidcodes.albdroid.al/Mediafire/New_Deep
 
-# JSON API
+# JSON NEW API
 
 https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/json
 # OR
 https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/?help
 
-# EXAMPLE Smart TV Playlist
+# EXAMPLE NEW Smart TV Playlist
 
 https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/playlist
-
 
 # Hosted OLD MAIN API
 
 https://paidcodes.albdroid.al/Mediafire/
 
-# JSON API
+# JSON OLD API
 
 https://paidcodes.albdroid.al/Mediafire/api/
 
-# JSON API HELP
+# JSON OLD API HELP
 
 https://paidcodes.albdroid.al/Mediafire/api/?help
 
-# EXAMPLE Smart TV Playlist
+# EXAMPLE OLD Smart TV Playlist
 
 https://paidcodes.albdroid.al/Mediafire/api/playlist
 
