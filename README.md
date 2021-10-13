@@ -10,13 +10,13 @@ https://paidcodes.albdroid.al/Mediafire/New_Deep
 
 # JSON NEW API
 
-https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/json
-# OR
-https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/?help
+https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/
 
-# EXAMPLE NEW Smart TV Playlist
+# EXAMPLE NEW API Playlisting Data
 
-https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/playlist
+    Smart TV https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/smart_tv
+    Simple https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/playlist
+    VLC https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/vlc
 
 # Hosted OLD MAIN API
 
