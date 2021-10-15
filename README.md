@@ -18,6 +18,10 @@ https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/
     Simple https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/playlist
     VLC https://paidcodes.albdroid.al/Mediafire/New_Deep/new_api/vlc
 
+# NEW API Added Automatic Playlist/RSS/JSON Data Builder by Folder ID
+
+    https://paidcodes.albdroid.al/Mediafire/New_Deep/By_Folder_ID
+
 # Hosted OLD MAIN API
 
 https://paidcodes.albdroid.al/Mediafire/
